@@ -2499,6 +2499,7 @@ Pizzacat
 - [Behzad Moghaddam] (https://github.com/b3hzzzad)
 - [Coop](https://github.com/SnowfallHD)
 - [Refayth Hossain (Eth3r-One)](https://github.com/Eth3R-One)
+- [Botez Alex] (https://github.com/Alex-Botez)
 - [Maheshwar S](https://github.com/Maheshwar-S)
 - [Arnav V](https://github.com/Arnav17v/)
 - [Timothy Kwok](https://github.com/timmywimmy95/)
